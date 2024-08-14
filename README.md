@@ -1,4 +1,4 @@
-Pea Plant Disease Prediction
+*Pea Plant Disease Prediction*
 This project focuses on predicting diseases in pea plants using a deep learning model. The dataset includes images of pea plant leaves categorized into four classes: Downy Mildew Leaf, Fresh Leaf, Leafminer Leaf, and Powder Mildew Leaf.
 
 Key Features:
