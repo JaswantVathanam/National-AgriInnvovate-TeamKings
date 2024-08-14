@@ -1,0 +1,10 @@
+# Install libraries
+!pip install os-sys
+!pip install tempfile
+!pip install urllib3
+!pip install tarfile
+!pip install shutil
+
+!pip install tensorflow
+!pip install numpy
+!pip install matplotlib
